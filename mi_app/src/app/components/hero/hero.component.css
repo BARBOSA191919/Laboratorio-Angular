@@ -1,5 +1,6 @@
 @import 'bootstrap/dist/css/bootstrap.min.css';
 
+
 /* Estilos generales del carrusel */
 .carousel {
   position: relative; /*se posiciona de manera absoulta al contenedor*/
