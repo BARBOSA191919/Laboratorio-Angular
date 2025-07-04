@@ -1,0 +1,58 @@
+<!-- Navbar principal con fondo blanco y efecto de scroll -->
+<nav class="navbar navbar-expand-lg fixed-top" [class.navbar-scrolled]="isScrolled">
+  <div class="container">
+    <!-- Logo de la marca -->
+    <a class="navbar-brand" href="#hero">
+      <img src="/assets/logos/ibero_software.png" alt="Logo de la empresa" class="brand-logo">
+    </a>
+
+    <!-- Botón del menú móvil -->
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <!-- Contenido del menú -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ms-auto mb-4 mb-lg-0">
+
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#hero">
+            <i class="fas fa-home"></i> Inicio
+          </a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="#about-lab">
+            <i class="fas fa-flask"></i> Sobre el Laboratorio
+          </a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="#youtube-course">
+            <i class="fab fa-youtube"></i> Curso Angular
+          </a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="#example-form">
+            <i class="fas fa-edit"></i> Formulario Ejemplo
+          </a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="#apis">
+            <i class="fas fa-code"></i> APIs
+          </a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="#thanks">
+            <i class="fas fa-star"></i> Agradecimiento
+          </a>
+        </li>
+
+      </ul>
+    </div>
+  </div>
+</nav>
