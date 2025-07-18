@@ -2,6 +2,48 @@
 
 Este repositorio contiene dos proyectos Angular desarrollados como parte del laboratorio de desarrollo web. Incluye aplicaciones con componentes reutilizables, servicios API y funcionalidades interactivas.
 
+## 📸 Capturas de Pantalla
+
+### Laboratorio-Ibero-Angular
+
+<div align="center">
+  <img width="1858" height="1022" alt="image" src="https://github.com/user-attachments/assets/5ad493ff-0b0b-4f0b-bfc6-29ce230c9350" />
+  <p><em>Vista general de la página Web Laboratorio-Ibero-Angular</em></p>
+</div>
+
+<div align="center">
+<img width="1831" height="863" alt="image" src="https://github.com/user-attachments/assets/81fd1e98-af43-4924-90f2-c905ff59a95f" />
+  <p><em>Sección Sobre Laboratorio</em></p>
+</div>
+
+<div align="center">
+<img width="1852" height="1017" alt="image" src="https://github.com/user-attachments/assets/5c855dc4-63f8-454a-a454-7b6f674956b5" />
+  <p><em>Sección Curso Angular</em></p>
+</div>
+
+<div align="center">
+<img width="1837" height="1012" alt="image" src="https://github.com/user-attachments/assets/eb4bd9eb-5fd3-41fa-bd52-2735fd48be40" />
+  <p><em>Formulario con validaciones en tiempo real</em></p>
+</div>
+
+<div align="center">
+<img width="1847" height="1012" alt="image" src="https://github.com/user-attachments/assets/af61199e-446f-4cf5-8cc3-365cd6682790" />
+  <p><em>Lista dinámica de personajes desde la API de Rick and Morty</em></p>
+</div>
+
+
+<div align="center">
+<img width="1847" height="997" alt="image" src="https://github.com/user-attachments/assets/b4c55889-73f3-4078-8f55-920a6cd38fa6" />
+  <p><em>Sección de agradecimientos</em></p>
+</div>
+
+<div align="center">
+<h3> Seccion Movil Laboratorio </h3>
+<img width="472" height="927" alt="image" src="https://github.com/user-attachments/assets/91bfa261-7fb6-467c-8bc6-f0895c9910f1" />
+<em><p>Diseño adaptativo perfecto para dispositivos móviles*</p></em>
+</div>
+
+
 ## 📁 Estructura del Proyecto
 
 ```
