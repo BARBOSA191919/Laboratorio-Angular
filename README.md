@@ -43,7 +43,6 @@ Este repositorio contiene dos proyectos Angular desarrollados como parte del lab
 <em><p>Diseño adaptativo perfecto para dispositivos móviles*</p></em>
 </div>
 
-
 ## 📁 Estructura del Proyecto
 
 ```
